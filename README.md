@@ -1,5 +1,5 @@
 # Read Me
-##
+## How to use
 * install nodejs
 * clone dist
 * cd into dist

@@ -16,8 +16,8 @@ class Component {
     }
 
     setTitle(text) {
-        const { type, title } = text;
-        return `<${type}>${title}</${type}>`;
+        const { type, message } = text;
+        return `<${type}>${message}</${type}>`;
     }
 
     render() {

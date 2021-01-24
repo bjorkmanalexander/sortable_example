@@ -13,6 +13,7 @@ const render = app => {
         app.insertAdjacentHTML('beforeend', container);
     }
     sortable();
+    document.title = 'SortableJS App';
 }
 
 module.exports = {

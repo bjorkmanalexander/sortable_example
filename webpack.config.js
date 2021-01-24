@@ -1,4 +1,4 @@
-const { resolve, join } = require('path');
+const { resolve } = require('path');
 const mode = process.env.NODE_ENV || 'development';
 
 module.exports = {

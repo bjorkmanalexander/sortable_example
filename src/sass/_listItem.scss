@@ -1,0 +1,10 @@
+@import 'theme';
+
+.list--item {
+    background-color: $main-color;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0.4;
+    padding: 2rem;
+}

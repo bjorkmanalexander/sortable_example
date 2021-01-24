@@ -1,0 +1,14 @@
+@import 'config';
+@import 'container';
+@import 'list';
+@import 'listItem';
+@import 'sortable.ext';
+@import 'theme';
+
+#app {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    justify-content: space-evenly;
+    width: 100%;
+}
